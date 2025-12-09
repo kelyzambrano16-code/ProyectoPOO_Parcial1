@@ -38,6 +38,7 @@ ProyectoPOO_Parcial1
 └── README.md
 --------------------
 #  Explicación de las clases
+<img width="816" height="544" alt="image" src="https://github.com/user-attachments/assets/a9a26f79-8457-4df2-b468-d5d1c8b479f9" />
 
 ## Superclase
 ### *Servicio*
